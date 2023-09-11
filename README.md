@@ -1,6 +1,11 @@
 ### Hello everyone! Welcome to my GIT profile 👋
-[![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanuddin561)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raihanuddin561&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=raihanuddin561&theme=dark" />
+</p>
+
 <!--
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 **raihanuddin561/raihanuddin561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
