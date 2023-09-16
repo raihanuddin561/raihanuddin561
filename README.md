@@ -2,7 +2,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raihanuddin561&show_icons=true&theme=tokyonight&rank_icon=github" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=raihanuddin561" />
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=raihanuddin561&layout=compact&langs_count=8&card_width=320"/>
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=raihanuddin561&layout=pie&langs_count=8"/>
 </p>
 
 <!--
