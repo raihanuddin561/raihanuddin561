@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihanuddin561&label=Profile%20views&color=0e75b6&style=flat" alt="raihanuddin561" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raihanuddin561" alt="raihanuddin561" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raihanuddin561" alt="raihanuddin561" /></a> </p>-->
 
 - 🔭 I’m currently working on [Travel Agency Social Media App](https://github.com/raihanuddin561/travel-agency-social-media-app)
 
