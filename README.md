@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raihan</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
 
-<p align="left" width="12%"> <img src="https://komarev.com/ghpvc/?username=raihanuddin561&label=Profile%20views&color=0e75b6&style=flat" alt="raihanuddin561" /> </p>
+<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=raihanuddin561.raihanuddin561" alt="visitor badge"/> </p>
+<!--data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha"-->
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raihanuddin561" alt="raihanuddin561" /></a> </p>-->
 
