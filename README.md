@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raihan</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
+<h3 align="center">A passionate Java developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=raihanuddin561.raihanuddin561" alt="visitor badge"/> </p>
 <!--data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha"-->
