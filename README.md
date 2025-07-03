@@ -6,8 +6,8 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raihanuddin561" alt="raihanuddin561" /></a> </p>-->
 
-- 🔭 I’m currently working on [Travel Agency Social Media App](https://github.com/raihanuddin561/travel-agency-social-media-app) and [Microservice app](https://github.com/raihanuddin561/microservice-based-app)
-- 🌱 I’m currently learning **React JS**
+- 🔭 I’m currently working on [B2B E-Commerce Backend (Spring Boot)](https://github.com/raihanuddin561/b2b-ecommerce) and [B2B E-Commerce Front-end (NEXT JS)](https://github.com/raihanuddin561/b2b-ecommerce-frontend)
+- 🌱 I’m currently learning **Next JS**
 
 - 👯 I’m currently collaborating on [Reflexbin](https://github.com/touhidion/reflexbin)
 
