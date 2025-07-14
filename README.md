@@ -11,7 +11,7 @@
 
 - 👯 I’m currently collaborating on [Reflexbin](https://github.com/touhidion/reflexbin)
 
-- 👨‍💻 All of my projects are available at [https://raihanuddin561.github.io/portfolio/](https://raihanuddin561.github.io/portfolio/)
+- 👨‍💻 Portfolio: [RAIHAN UDDIN](https://raihan-uddin.vercel.app/)
 
 - 💬 Ask me about **Java, Spring Boot**
 
